@@ -45,5 +45,4 @@ temp/
 library/common-test/charts/
 .cr-release-packages/
 library/common-test/chart.lock
-catalog_validation
-/catalog_validation
+

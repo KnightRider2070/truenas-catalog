@@ -11,7 +11,7 @@ on:
 jobs:
   test-and-sync:
     name: Test and Sync SCALE Catalog
-    runs-on: actions-runner-large
+    runs-on: ubuntu-latest
     steps:
           
       - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
@@ -35,8 +35,8 @@ jobs:
         shell: bash
         run: |
           cd "${PWD}"
-          git config user.name "TrueCharts-Bot"
-          git config user.email "bot@truecharts.org"
+          git config user.name "TrueNasChartBot"
+          git config user.email "truenaschartbot@bytehaven.live"
           git add catalog.json || echo "Adding catalog.json failed"
           git add **/app_versions.json || echo "Adding app_version.json files failed"
           git commit --all -m "Commit app_versions.json and catalog.json" || echo "Commiting app_versions.json and catalog.json failed"

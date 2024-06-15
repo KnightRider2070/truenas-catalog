@@ -18,16 +18,12 @@ jobs:
         name: Checkout
         with:
           token: ${{ secrets.BOT_TOKEN }}
-          
-      - name: Move catalog_validation
-        shell: bash
-        run: |
-          mv .github/catalog_validation "${GITHUB_WORKSPACE}/catalog_validation"
+        
 
       - name: install catalog_validation
         shell: bash
         run: |
-          cd ${GITHUB_WORKSPACE}/catalog_validation
+          cd .github/catalog_validation
           pip install -r requirements.txt
           pip install -U --no-cache-dir .
           cd -
@@ -36,13 +32,13 @@ jobs:
         shell: bash
         run: |
           echo "Starting Catalog Validation"
-          python3 ${GITHUB_WORKSPACE}/catalog_validation/catalog_validation/scripts/catalog_validate.py validate --path "${PWD}" --ignore-catalog-json
+          python3 .github/catalog_validation/catalog_validation/scripts/catalog_validate.py validate --path "${PWD}" --ignore-catalog-json
 
       - name: catalog json generation
         shell: bash
         run: |
           echo "Starting Catalog json Generation"
-          python3 ${GITHUB_WORKSPACE}/catalog_validation/catalog_validation/scripts/catalog_update.py update --path "${PWD}"
+          python3 .github/catalog_validation/catalog_validation/scripts/catalog_update.py update --path "${PWD}"
 
       - name: Merge staging into main
         shell: bash

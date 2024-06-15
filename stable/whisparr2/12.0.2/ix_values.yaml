@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/hotio/whisparr
   pullPolicy: IfNotPresent
-  tag: v3-3.0.0.545@sha256:fc6a6b8435756484035205282d8ed57899e9c9033459728cfa8be8a9676f0641
+  tag: nightly-2.0.0.548@sha256:13f8c4f3ca3e4eafd1a288ea5f63364bb44c8f4fe13ea06408bf4bb49109e3cd
 securityContext:
   container:
     readOnlyRootFilesystem: false
@@ -11,7 +11,7 @@ service:
   main:
     ports:
       main:
-        port: 6969
+        port: 6968
         protocol: http
         targetPort: 6969
 persistence:

@@ -172,7 +172,7 @@ portals:
       - "$kubernetes-resource_configmap_tcportal-open_port"
 
 questions:
-    - variable: global
+  - variable: global
     group: General
     label: "Global Settings"
     schema:
@@ -186,7 +186,7 @@ questions:
             type: boolean
             default: false
 
-    - variable: credentialsList
+  - variable: credentialsList
     group: General
     label: "Credentials (Experimental)"
     schema:
@@ -257,7 +257,7 @@ questions:
                   default: "MYSECRETPASSPHRASE"
                   required: true
 
-    - variable: workload
+  - variable: workload
     group: "Workload"
     label: ""
     schema:
@@ -271,7 +271,7 @@ questions:
             type: dict
             attrs:
 
-                - variable: type
+              - variable: type
                 label: Type (Advanced)
                 schema:
                   type: string
@@ -282,7 +282,7 @@ questions:
                     - value: DaemonSet
                       description: DaemonSet
 
-                - variable: replicas
+              - variable: replicas
                 label: Replicas (Advanced)
                 description: Set the number of Replicas
                 schema:
@@ -290,7 +290,7 @@ questions:
                   show_if: [["type", "!=", "DaemonSet"]]
                   default: 1
 
-                - variable: podSpec
+              - variable: podSpec
                 label: ""
                 schema:
                   additional_attrs: true
@@ -303,14 +303,14 @@ questions:
                         type: dict
                         attrs:
 
-                            - variable: main
+                          - variable: main
                             label: Main Container
                             schema:
                               additional_attrs: true
                               type: dict
                               attrs:
 
-                                  - variable: envList
+                                - variable: envList
                                   label: Extra Environment Variables
                                   description: "Please be aware that some variables are set in the background, adding duplicates here might cause issues or prevent the app from starting..."
                                   schema:
@@ -342,7 +342,7 @@ questions:
                                         schema:
                                           type: string
 
-                                  - variable: advanced
+                                - variable: advanced
                                   label: Show Advanced Settings
                                   description: Advanced settings are not covered by TrueCharts Support
                                   schema:
@@ -361,7 +361,7 @@ questions:
                                               schema:
                                                 type: string
 
-    - variable: TZ
+  - variable: TZ
     label: Timezone
     group: "General"
     schema:
@@ -370,7 +370,7 @@ questions:
       $ref:
         - "definitions/timezone"
 
-    - variable: podOptions
+  - variable: podOptions
     group: "General"
     label: "Global Pod Options (Advanced)"
     schema:
@@ -489,7 +489,7 @@ questions:
                         required: true
                         default: ""
 
-    - variable: service
+  - variable: service
     group: Services
     label: Configure Service(s)
     schema:
@@ -497,14 +497,14 @@ questions:
       type: dict
       attrs:
 
-  - variable: main
-    label: Main Service
-    description: The Primary service on which the healthcheck runs, often the webUI
-    schema:
-      additional_attrs: true
-      type: dict
-      attrs:
-                      - variable: enabled
+        - variable: main
+          label: Main Service
+          description: The Primary service on which the healthcheck runs, often the webUI
+          schema:
+            additional_attrs: true
+            type: dict
+            attrs:
+              - variable: enabled
                 label: Enable the Service
                 schema:
                   type: boolean
@@ -522,7 +522,7 @@ questions:
                     - value: ClusterIP
                       description: ClusterIP (Do Not Expose Ports)
 
-                      - variable: loadBalancerIP
+              - variable: loadBalancerIP
                 label: LoadBalancer IP
                 description: "MetalLB Only: Selects the Loadbalancer IP to expose on. Required when using PortalButton with MetalLB"
                 schema:
@@ -536,20 +536,20 @@ questions:
                   type: dict
                   attrs:
 
-        - variable: main
-          label: "Main Service Port Configuration"
-          schema:
-            additional_attrs: true
-            type: dict
-            attrs:
-              - variable: port
-                label: "Port"
-                description: "This port exposes the container port on the service running"
-                schema:
-                  type: int
-                  default: 8428
-                  required: true
-    - variable: scaleExternalInterface
+                    - variable: main
+                      label: "Main Service Port Configuration"
+                      schema:
+                        additional_attrs: true
+                        type: dict
+                        attrs:
+                          - variable: port
+                            label: "Port"
+                            description: "This port exposes the container port on the service"
+                            schema:
+                              type: int
+                              default: 8428
+                              required: true
+  - variable: scaleExternalInterface
     description: 'Add External Interfaces (Experimental, might change or be removed without further notice)'
     label: Add external Interfaces (Experimental)
     group: Networking
@@ -629,7 +629,7 @@ questions:
                                     required: true
 
 
-    - variable: serviceList
+  - variable: serviceList
     label: Add Manual Custom Services
     group: Services
     schema:
@@ -764,7 +764,7 @@ questions:
                               type: int
                               required: true
 
-    - variable: persistence
+  - variable: persistence
     label: Integrated Persistent Storage
     description: Integrated Persistent Storage
     group: Persistence
@@ -773,14 +773,14 @@ questions:
       type: dict
       attrs:
 
-  - variable: data
-    label: "App Data Storage"
-    description: "Stores the Application Data."
-    schema:
-      additional_attrs: true
-      type: dict
-      attrs:
-                - variable: type
+        - variable: data
+          label: "App Data Storage"
+          description: "Stores the Application Data."
+          schema:
+            additional_attrs: true
+            type: dict
+            attrs:
+              - variable: type
                 label: Type of Storage
                 description: Sets the persistence type, Anything other than PVC could break rollback!
                 schema:
@@ -1108,7 +1108,7 @@ questions:
                               type: string
                               default: ""
 
-    - variable: persistenceList
+  - variable: persistenceList
     label: Additional App Storage
     group: Persistence
     schema:
@@ -1459,7 +1459,7 @@ questions:
                               type: string
                               default: ""
 
-    - variable: ingress
+  - variable: ingress
     label: ""
     group: Ingress
     schema:
@@ -1467,13 +1467,13 @@ questions:
       type: dict
       attrs:
 
-  - variable: main
-    label: "Main Ingress"
-    schema:
-      additional_attrs: true
-      type: dict
-      attrs:
-                      - variable: enabled
+        - variable: main
+          label: "Main Ingress"
+          schema:
+            additional_attrs: true
+            type: dict
+            attrs:
+              - variable: enabled
                 label: Enable Ingress
                 schema:
                   type: boolean
@@ -1523,7 +1523,7 @@ questions:
                                                 required: true
                                                 default: Prefix
 
-                            - variable: integrations
+                    - variable: integrations
                       label: Integrations
                       description: Connect ingress with other charts
                       schema:
@@ -1748,7 +1748,7 @@ questions:
                                     type: string
                                     default: ""
 
-          - variable: ingressList
+  - variable: ingressList
     label: Add Manual Custom Ingresses
     group: Ingress
     schema:
@@ -1991,7 +1991,7 @@ questions:
                               default: "default"
                               show_if: [["enabled", "=", true]]
 
-          - variable: securityContext
+  - variable: securityContext
     group: SecurityContext
     label: Security Context
     schema:
@@ -2006,19 +2006,19 @@ questions:
             attrs:
               # Settings from questions.yaml get appended here on a per-app basis
 
-        - variable: runAsUser
-          label: "runAsUser"
-          description: "The UserID of the user running the application"
-          schema:
-            type: int
-            default: 568
-        - variable: runAsGroup
-          label: "runAsGroup"
-          description: "The groupID of the user running the application"
-          schema:
-            type: int
-            default: 568
-                      # Settings from questions.yaml get appended here on a per-app basis
+              - variable: runAsUser
+                label: "runAsUser"
+                description: "The UserID of the user running the application"
+                schema:
+                  type: int
+                  default: 568
+              - variable: runAsGroup
+                label: "runAsGroup"
+                description: "The groupID of the user running the application"
+                schema:
+                  type: int
+                  default: 568
+              # Settings from questions.yaml get appended here on a per-app basis
               - variable: PUID
                 label: Process User ID - PUID
                 description: When supported by the container, this sets the User ID running the Application Process. Not supported by all Apps
@@ -2033,7 +2033,7 @@ questions:
                   type: string
                   default: "0022"
 
-                      - variable: advanced
+              - variable: advanced
                 label: Show Advanced Settings
                 description: Advanced settings are not covered by TrueCharts Support
                 schema:
@@ -2052,7 +2052,7 @@ questions:
                         type: boolean
                         default: true
 
-                - variable: pod
+        - variable: pod
           label: Pod
           schema:
             additional_attrs: true
@@ -2080,12 +2080,12 @@ questions:
                         type: int
               # Settings from questions.yaml get appended here on a per-app basis
 
-        - variable: fsGroup
-          label: "fsGroup"
-          description: "The group that should own ALL storage."
-          schema:
-            type: int
-            default: 568
+              - variable: fsGroup
+                label: "fsGroup"
+                description: "The group that should own ALL storage."
+                schema:
+                  type: int
+                  default: 568
   - variable: resources
     group: Resources
     label: "Resource Limits"

@@ -17,11 +17,11 @@ cublasCuda12FfmpegImage:
 cublasCuda11Image:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent
-  tag: v2.16.0-cublas-cuda11-core@sha256:7bcd70e4c7164815ac1bafaf69c8493514e13c4f84d611590cc4001fb44829d8
+  tag: v2.16.0-cublas-cuda11-core@sha256:f31b9a7221a0de25f9f27d6d309f6dd3eb2ef060210d9c7cc689fa4c8b32dc98
 cublasCuda11FfmpegImage:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent
-  tag: v2.16.0-cublas-cuda11-ffmpeg-core@sha256:8e90cd63d3a904d980a2a3ba5c1a78379cf9f4d37afff02d1c00a7aec279c146
+  tag: v2.16.0-cublas-cuda11-ffmpeg-core@sha256:df42be09082bc75d6d98b8fe31dcb1605b173f149930fc37511ea49128d41222
 allInOneCuda12Image:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent

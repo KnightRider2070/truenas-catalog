@@ -52,7 +52,7 @@ j8alpineImage:
   pullPolicy: Always
 mcBackupImage:
   repository: itzg/mc-backup
-  tag: latest@sha256:e02dd0cae6e9d50c5b7ec93202cf7a31561bb7e918c4ad01d8d42edaafba290c
+  tag: latest@sha256:44c34ead6d62688738ddd2aded779577d5b9ef6fbf577f44c597c81fce637f97
   pullPolicy: Always
 
 service:

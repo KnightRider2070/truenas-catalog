@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/linuxserver/mstream
   pullPolicy: IfNotPresent
-  tag: 5.12.2@sha256:6894a8fd51d565fef275b854075ecfc4621eba03b705b6b7966f00780b9bdd45
+  tag: 5.12.2@sha256:3c7525536201e9f0ca89ac867ad9ecdab64501bd22b0e9cf7681c917c64a1020
 service:
   main:
     ports:

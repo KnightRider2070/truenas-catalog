@@ -1,10 +1,14 @@
 
 
-## [wallos-6.0.12]wallos-6.0.12 (2024-06-27)
+## [wallos-6.0.14]wallos-6.0.14 (2024-06-30)
 
 ### Chore
 
 
+
+- update container image docker.io/bellamy/wallos to latest[@6bcb9e6](https://github.com/6bcb9e6) by renovate
+
+- update container image docker.io/bellamy/wallos to latest[@e758df9](https://github.com/e758df9) by renovate
 
 - update container image docker.io/bellamy/wallos to latest[@ca116a4](https://github.com/ca116a4) by renovate
 

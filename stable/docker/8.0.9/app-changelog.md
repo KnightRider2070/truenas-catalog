@@ -1,10 +1,14 @@
 
 
-## [docker-8.0.7]docker-8.0.7 (2024-06-21)
+## [docker-8.0.9]docker-8.0.9 (2024-07-10)
 
 ### Chore
 
 
+
+- update container image docker to v[@e3f6887](https://github.com/e3f6887) by renovate
+
+- update container image docker to v[@dfaffff](https://github.com/dfaffff) by renovate
 
 - update container image docker to 26.1.4-dind[@6677649](https://github.com/6677649) by renovate
 

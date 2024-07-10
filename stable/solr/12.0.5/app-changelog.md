@@ -1,10 +1,14 @@
 
 
-## [solr-12.0.3]solr-12.0.3 (2024-06-29)
+## [solr-12.0.5]solr-12.0.5 (2024-07-10)
 
 ### Chore
 
 
+
+- update container image bitnami/solr to 9.6.1[@46e3781](https://github.com/46e3781) by renovate
+
+- update container image bitnami/solr to 9.6.1[@8381696](https://github.com/8381696) by renovate
 
 - update container image bitnami/solr to 9.6.1[@1189ee1](https://github.com/1189ee1) by renovate
 

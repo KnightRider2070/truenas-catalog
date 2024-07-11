@@ -1,10 +1,14 @@
 
 
-## [emulatorjs-11.0.4]emulatorjs-11.0.4 (2024-06-20)
+## [emulatorjs-11.0.6]emulatorjs-11.0.6 (2024-07-11)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/emulatorjs to 1.9.0[@428bf2a](https://github.com/428bf2a) by renovate
+
+- update container image ghcr.io/linuxserver/emulatorjs to 1.9.0[@9a2f02f](https://github.com/9a2f02f) by renovate
 
 - update container image ghcr.io/linuxserver/emulatorjs to 1.9.0[@6b0e396](https://github.com/6b0e396) by renovate
 

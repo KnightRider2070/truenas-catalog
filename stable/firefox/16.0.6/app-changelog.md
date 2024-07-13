@@ -1,10 +1,14 @@
 
 
-## [firefox-16.0.4]firefox-16.0.4 (2024-06-30)
+## [firefox-16.0.6]firefox-16.0.6 (2024-07-13)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/firefox to 126.0.1[@b9eb0a2](https://github.com/b9eb0a2) by renovate
+
+- update container image ghcr.io/linuxserver/firefox to v[@8597fdd](https://github.com/8597fdd) by renovate
 
 - update container image ghcr.io/linuxserver/firefox to 126.0.1[@fb99450](https://github.com/fb99450) by renovate
 

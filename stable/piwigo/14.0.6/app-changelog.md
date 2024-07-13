@@ -1,10 +1,14 @@
 
 
-## [piwigo-14.0.4]piwigo-14.0.4 (2024-06-29)
+## [piwigo-14.0.6]piwigo-14.0.6 (2024-07-13)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/piwigo to 14.4.0[@f0b3e19](https://github.com/f0b3e19) by renovate
+
+- update container image ghcr.io/linuxserver/piwigo to 14.4.0[@b086ad1](https://github.com/b086ad1) by renovate
 
 - update container image ghcr.io/linuxserver/piwigo to 14.4.0[@686db83](https://github.com/686db83) by renovate
 

@@ -1,10 +1,14 @@
 
 
-## [librespeed-15.0.5]librespeed-15.0.5 (2024-06-28)
+## [librespeed-15.0.7]librespeed-15.0.7 (2024-07-14)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/librespeed to 5.3.3[@9e967d1](https://github.com/9e967d1) by renovate
+
+- update container image ghcr.io/linuxserver/librespeed to 5.3.3[@fcaca89](https://github.com/fcaca89) by renovate
 
 - update container image ghcr.io/linuxserver/librespeed to 5.3.3[@c646718](https://github.com/c646718) by renovate
 

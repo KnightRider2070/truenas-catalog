@@ -1,10 +1,14 @@
 
 
-## [duckdns-11.0.4]duckdns-11.0.4 (2024-06-26)
+## [duckdns-11.0.6]duckdns-11.0.6 (2024-07-15)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/duckdns to latest[@74c4f65](https://github.com/74c4f65) by renovate
+
+- update container image ghcr.io/linuxserver/duckdns to latest[@103f023](https://github.com/103f023) by renovate
 
 - update container image ghcr.io/linuxserver/duckdns to latest[@e4257a5](https://github.com/e4257a5) by renovate
 

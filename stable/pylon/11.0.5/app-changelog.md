@@ -1,10 +1,14 @@
 
 
-## [pylon-11.0.3]pylon-11.0.3 (2024-06-25)
+## [pylon-11.0.5]pylon-11.0.5 (2024-07-16)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/pylon to 2.10.0[@0209820](https://github.com/0209820) by renovate
+
+- update container image ghcr.io/linuxserver/pylon to 2.10.0[@424df0b](https://github.com/424df0b) by renovate
 
 - update container image ghcr.io/linuxserver/pylon to 2.10.0[@a6d9700](https://github.com/a6d9700) by renovate
 

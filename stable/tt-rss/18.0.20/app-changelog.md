@@ -6,6 +6,8 @@
 
 
 
+- update container image cthulhoo/ttrss-web-nginx to latest[@bf88d4b](https://github.com/bf88d4b) by renovate
+
 - update container image cthulhoo/ttrss-fpm-pgsql-static to latest[@d05d9b3](https://github.com/d05d9b3) by renovate
 
 - update container image cthulhoo/ttrss-web-nginx to latest[@af2b797](https://github.com/af2b797) by renovate

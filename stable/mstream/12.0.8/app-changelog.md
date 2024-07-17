@@ -1,10 +1,14 @@
 
 
-## [mstream-12.0.6]mstream-12.0.6 (2024-06-28)
+## [mstream-12.0.8]mstream-12.0.8 (2024-07-17)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/mstream to 5.12.2[@abf724f](https://github.com/abf724f) by renovate
+
+- update container image ghcr.io/linuxserver/mstream to 5.12.2[@04f3e89](https://github.com/04f3e89) by renovate
 
 - update container image ghcr.io/linuxserver/mstream to 5.12.2[@3c75255](https://github.com/3c75255) by renovate
 

@@ -1,10 +1,16 @@
 
 
-## [tt-rss-18.0.21]tt-rss-18.0.21 (2024-07-18)
+## [tt-rss-18.0.23]tt-rss-18.0.23 (2024-07-19)
 
 ### Chore
 
 
+
+- update container image cthulhoo/ttrss-fpm-pgsql-static to latest[@d1cf529](https://github.com/d1cf529) by renovate
+
+- update container image cthulhoo/ttrss-web-nginx to latest[@f0fa0b9](https://github.com/f0fa0b9) by renovate
+
+- update container image cthulhoo/ttrss-fpm-pgsql-static to latest[@a16f018](https://github.com/a16f018) by renovate
 
 - update container image cthulhoo/ttrss-web-nginx to latest[@78dadc3](https://github.com/78dadc3) by renovate
 

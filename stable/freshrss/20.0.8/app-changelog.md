@@ -1,10 +1,14 @@
 
 
-## [freshrss-20.0.6]freshrss-20.0.6 (2024-07-12)
+## [freshrss-20.0.8]freshrss-20.0.8 (2024-07-21)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/freshrss to 1.24.1[@ad56a23](https://github.com/ad56a23) by renovate
+
+- update container image ghcr.io/linuxserver/freshrss to 1.24.1[@a2fb723](https://github.com/a2fb723) by renovate
 
 - update container image ghcr.io/linuxserver/freshrss to 1.24.1[@3ca4699](https://github.com/3ca4699) by renovate
 

@@ -1,10 +1,14 @@
 
 
-## [chronograf-7.0.5]chronograf-7.0.5 (2024-07-10)
+## [chronograf-7.0.7]chronograf-7.0.7 (2024-07-23)
 
 ### Chore
 
 
+
+- update container image chronograf to latest[@b0ae594](https://github.com/b0ae594) by renovate
+
+- update container image chronograf to latest[@6146857](https://github.com/6146857) by renovate
 
 - update container image chronograf to latest[@f955b85](https://github.com/f955b85) by renovate
 

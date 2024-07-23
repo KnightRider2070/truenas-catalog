@@ -1,10 +1,14 @@
 
 
-## [mosquitto-16.0.5]mosquitto-16.0.5 (2024-07-23)
+## [mosquitto-16.0.7]mosquitto-16.0.7 (2024-07-23)
 
 ### Chore
 
 
+
+- update container image eclipse-mosquitto to 2.0.18[@77b9bfa](https://github.com/77b9bfa) by renovate
+
+- update container image eclipse-mosquitto to 2.0.18[@7423b06](https://github.com/7423b06) by renovate
 
 - update container image eclipse-mosquitto to 2.0.18[@6f630d2](https://github.com/6f630d2) by renovate
 

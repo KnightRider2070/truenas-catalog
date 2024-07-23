@@ -1,10 +1,14 @@
 
 
-## [docker-8.0.13]docker-8.0.13 (2024-07-20)
+## [docker-8.0.15]docker-8.0.15 (2024-07-23)
 
 ### Chore
 
 
+
+- update container image docker to v[@b0bb045](https://github.com/b0bb045) by renovate
+
+- update container image docker to v[@de176a2](https://github.com/de176a2) by renovate
 
 - update container image docker to v[@5efd94b](https://github.com/5efd94b) by renovate
 

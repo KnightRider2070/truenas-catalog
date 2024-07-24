@@ -1,10 +1,14 @@
 
 
-## [dokuwiki-13.0.4]dokuwiki-13.0.4 (2024-06-29)
+## [dokuwiki-13.0.6]dokuwiki-13.0.6 (2024-07-24)
 
 ### Chore
 
 
+
+- update container image bitnami/dokuwiki to 20240206.1.0[@f7be2f1](https://github.com/f7be2f1) by renovate
+
+- update container image bitnami/dokuwiki to 20240206.1.0[@03fa4e0](https://github.com/03fa4e0) by renovate
 
 - update container image bitnami/dokuwiki to 20240206.1.0[@0e0f907](https://github.com/0e0f907) by renovate
 

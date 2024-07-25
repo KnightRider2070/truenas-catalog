@@ -1,10 +1,14 @@
 
 
-## [remmina-12.0.5]remmina-12.0.5 (2024-07-13)
+## [remmina-12.0.7]remmina-12.0.7 (2024-07-25)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/remmina to 1.4.2[@3cdae44](https://github.com/3cdae44) by renovate
+
+- update container image ghcr.io/linuxserver/remmina to 1.4.2[@6697833](https://github.com/6697833) by renovate
 
 - update container image ghcr.io/linuxserver/remmina to 1.4.2[@8f166a9](https://github.com/8f166a9) by renovate
 

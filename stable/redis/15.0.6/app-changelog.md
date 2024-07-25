@@ -1,10 +1,14 @@
 
 
-## [redis-15.0.4]redis-15.0.4 (2024-06-29)
+## [redis-15.0.6]redis-15.0.6 (2024-07-25)
 
 ### Chore
 
 
+
+- update container image bitnami/redis to 7.2.5[@5d40f47](https://github.com/5d40f47) by renovate
+
+- update container image bitnami/redis to 7.2.5[@2253e8d](https://github.com/2253e8d) by renovate
 
 - update container image bitnami/redis to 7.2.5[@15616e3](https://github.com/15616e3) by renovate
 

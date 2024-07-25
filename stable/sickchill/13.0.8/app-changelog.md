@@ -1,10 +1,14 @@
 
 
-## [sickchill-13.0.6]sickchill-13.0.6 (2024-07-15)
+## [sickchill-13.0.8]sickchill-13.0.8 (2024-07-25)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/sickchill to 2024.3.1[@e6b5b62](https://github.com/e6b5b62) by renovate
+
+- update container image ghcr.io/linuxserver/sickchill to 2024.3.1[@4489703](https://github.com/4489703) by renovate
 
 - update container image ghcr.io/linuxserver/sickchill to 2024.3.1[@e9c7094](https://github.com/e9c7094) by renovate
 

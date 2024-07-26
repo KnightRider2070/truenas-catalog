@@ -1,10 +1,14 @@
 
 
-## [iyuuplus-11.0.6]iyuuplus-11.0.6 (2024-07-12)
+## [iyuuplus-11.0.8]iyuuplus-11.0.8 (2024-07-26)
 
 ### Chore
 
 
+
+- update container image docker.io/iyuucn/iyuuplus to latest[@47121f0](https://github.com/47121f0) by renovate
+
+- update container image docker.io/iyuucn/iyuuplus to latest[@e571c98](https://github.com/e571c98) by renovate
 
 - update container image docker.io/iyuucn/iyuuplus to latest[@d5df7f4](https://github.com/d5df7f4) by renovate
 

@@ -1,10 +1,14 @@
 
 
-## [twonky-server-7.0.6]twonky-server-7.0.6 (2024-07-12)
+## [twonky-server-7.0.8]twonky-server-7.0.8 (2024-07-26)
 
 ### Chore
 
 
+
+- update container image dtjs48jkt/twonkyserver to latest[@52e37d9](https://github.com/52e37d9) by renovate
+
+- update container image dtjs48jkt/twonkyserver to latest[@2c2b047](https://github.com/2c2b047) by renovate
 
 - update container image dtjs48jkt/twonkyserver to latest[@db0ed49](https://github.com/db0ed49) by renovate
 

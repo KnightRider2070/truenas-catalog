@@ -1,10 +1,14 @@
 
 
-## [tar1090-7.0.9]tar1090-7.0.9 (2024-07-21)
+## [tar1090-7.0.11]tar1090-7.0.11 (2024-07-26)
 
 ### Chore
 
 
+
+- update container image mikenye/tar1090 to latest[@6bf88b8](https://github.com/6bf88b8) by renovate
+
+- update container image mikenye/tar1090 to latest[@4f21fb7](https://github.com/4f21fb7) by renovate
 
 - update container image mikenye/tar1090 to latest[@fd9abe4](https://github.com/fd9abe4) by renovate
 

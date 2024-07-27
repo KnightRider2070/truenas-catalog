@@ -1,10 +1,14 @@
 
 
-## [steam-headless-5.0.5]steam-headless-5.0.5 (2024-07-16)
+## [steam-headless-5.0.7]steam-headless-5.0.7 (2024-07-27)
 
 ### Chore
 
 
+
+- update container image josh5/steam-headless to latest[@ca90bdd](https://github.com/ca90bdd) by renovate
+
+- update container image josh5/steam-headless to latest[@d6e8621](https://github.com/d6e8621) by renovate
 
 - update container image josh5/steam-headless to latest[@3282b2b](https://github.com/3282b2b) by renovate
 

@@ -1,10 +1,14 @@
 
 
-## [impostor-server-10.0.4]impostor-server-10.0.4 (2024-07-19)
+## [impostor-server-10.0.6]impostor-server-10.0.6 (2024-07-27)
 
 ### Chore
 
 
+
+- update container image aeonlucid/impostor to nightly[@71f7b6c](https://github.com/71f7b6c) by renovate
+
+- update container image aeonlucid/impostor to nightly[@0ae5ed1](https://github.com/0ae5ed1) by renovate
 
 - update container image aeonlucid/impostor to nightly[@4b9f07b](https://github.com/4b9f07b) by renovate
 

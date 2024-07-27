@@ -1,10 +1,14 @@
 
 
-## [jellyfin-20.0.14]jellyfin-20.0.14 (2024-07-16)
+## [jellyfin-20.0.16]jellyfin-20.0.16 (2024-07-27)
 
 ### Chore
 
 
+
+- update container image docker.io/alpine/socat to 1.8.0.0[@3369548](https://github.com/3369548) by renovate
+
+- update container image docker.io/alpine/socat to 1.8.0.0[@f8bb631](https://github.com/f8bb631) by renovate
 
 - update container image docker.io/alpine/socat to 1.8.0.0[@e286a3d](https://github.com/e286a3d) by renovate
 

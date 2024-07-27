@@ -1,10 +1,14 @@
 
 
-## [smokeping-12.0.6]smokeping-12.0.6 (2024-07-16)
+## [smokeping-12.0.8]smokeping-12.0.8 (2024-07-27)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/smokeping to 2.8.2[@489db4a](https://github.com/489db4a) by renovate
+
+- update container image ghcr.io/linuxserver/smokeping to 2.8.2[@8144555](https://github.com/8144555) by renovate
 
 - update container image ghcr.io/linuxserver/smokeping to 2.8.2[@d118c71](https://github.com/d118c71) by renovate
 

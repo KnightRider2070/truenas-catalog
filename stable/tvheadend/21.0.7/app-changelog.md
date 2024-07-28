@@ -1,10 +1,14 @@
 
 
-## [tvheadend-21.0.5]tvheadend-21.0.5 (2024-07-14)
+## [tvheadend-21.0.7]tvheadend-21.0.7 (2024-07-28)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/tvheadend to latest[@9ec23a5](https://github.com/9ec23a5) by renovate
+
+- update container image ghcr.io/linuxserver/tvheadend to latest[@6375ffe](https://github.com/6375ffe) by renovate
 
 - update container image ghcr.io/linuxserver/tvheadend to latest[@d7154a9](https://github.com/d7154a9) by renovate
 

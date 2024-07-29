@@ -1,10 +1,14 @@
 
 
-## [filezilla-13.0.8]filezilla-13.0.8 (2024-07-15)
+## [filezilla-13.0.10]filezilla-13.0.10 (2024-07-29)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/filezilla to 3.67.0[@00c9faf](https://github.com/00c9faf) by renovate
+
+- update container image ghcr.io/linuxserver/filezilla to 3.67.0[@90e32d4](https://github.com/90e32d4) by renovate
 
 - update container image ghcr.io/linuxserver/filezilla to 3.67.0[@6aff539](https://github.com/6aff539) by renovate
 

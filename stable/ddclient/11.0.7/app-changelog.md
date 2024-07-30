@@ -1,10 +1,14 @@
 
 
-## [ddclient-11.0.5]ddclient-11.0.5 (2024-07-11)
+## [ddclient-11.0.7]ddclient-11.0.7 (2024-07-30)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/ddclient to 3.11.2[@7145c7f](https://github.com/7145c7f) by renovate
+
+- update container image ghcr.io/linuxserver/ddclient to 3.11.2[@39b1474](https://github.com/39b1474) by renovate
 
 - update container image ghcr.io/linuxserver/ddclient to 3.11.2[@ab0ccd4](https://github.com/ab0ccd4) by renovate
 

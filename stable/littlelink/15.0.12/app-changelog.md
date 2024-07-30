@@ -1,10 +1,14 @@
 
 
-## [littlelink-15.0.10]littlelink-15.0.10 (2024-07-27)
+## [littlelink-15.0.12]littlelink-15.0.12 (2024-07-30)
 
 ### Chore
 
 
+
+- update container image ghcr.io/techno-tim/littlelink-server to latest[@831ac7a](https://github.com/831ac7a) by renovate
+
+- update container image ghcr.io/techno-tim/littlelink-server to latest[@a84849d](https://github.com/a84849d) by renovate
 
 - update container image ghcr.io/techno-tim/littlelink-server to latest[@45c4731](https://github.com/45c4731) by renovate
 

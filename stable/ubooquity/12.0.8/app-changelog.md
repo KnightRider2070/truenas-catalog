@@ -1,10 +1,14 @@
 
 
-## [ubooquity-12.0.6]ubooquity-12.0.6 (2024-07-25)
+## [ubooquity-12.0.8]ubooquity-12.0.8 (2024-07-31)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/ubooquity to 2.1.2[@eeba34c](https://github.com/eeba34c) by renovate
+
+- update container image ghcr.io/linuxserver/ubooquity to 2.1.2[@79f9b4c](https://github.com/79f9b4c) by renovate
 
 - update container image ghcr.io/linuxserver/ubooquity to 2.1.2[@0e865ca](https://github.com/0e865ca) by renovate
 

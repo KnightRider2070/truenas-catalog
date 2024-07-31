@@ -1,10 +1,14 @@
 
 
-## [booksonic-air-15.0.5]booksonic-air-15.0.5 (2024-07-17)
+## [booksonic-air-15.0.7]booksonic-air-15.0.7 (2024-07-31)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/booksonic-air to 2201.1.0[@2bd7b17](https://github.com/2bd7b17) by renovate
+
+- update container image ghcr.io/linuxserver/booksonic-air to 2201.1.0[@1275551](https://github.com/1275551) by renovate
 
 - update container image ghcr.io/linuxserver/booksonic-air to 2201.1.0[@fada8d0](https://github.com/fada8d0) by renovate
 

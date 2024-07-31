@@ -1,10 +1,14 @@
 
 
-## [libremdb-9.0.47]libremdb-9.0.47 (2024-07-29)
+## [libremdb-9.0.49]libremdb-9.0.49 (2024-07-31)
 
 ### Chore
 
 
+
+- update container image quay.io/pussthecatorg/libremdb to latest[@e94aa1d](https://github.com/e94aa1d) by renovate
+
+- update container image quay.io/pussthecatorg/libremdb to latest[@8e984a3](https://github.com/8e984a3) by renovate
 
 - update container image quay.io/pussthecatorg/libremdb to latest[@068d83a](https://github.com/068d83a) by renovate
 

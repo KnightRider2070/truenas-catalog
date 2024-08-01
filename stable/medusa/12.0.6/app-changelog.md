@@ -1,10 +1,14 @@
 
 
-## [medusa-12.0.4]medusa-12.0.4 (2024-07-12)
+## [medusa-12.0.6]medusa-12.0.6 (2024-08-01)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/medusa to 1.0.21[@b9ec4b9](https://github.com/b9ec4b9) by renovate
+
+- update container image ghcr.io/linuxserver/medusa to 1.0.21[@b2ada51](https://github.com/b2ada51) by renovate
 
 - update container image ghcr.io/linuxserver/medusa to 1.0.21[@76252b8](https://github.com/76252b8) by renovate
 

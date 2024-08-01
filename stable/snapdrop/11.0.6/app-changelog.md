@@ -1,10 +1,14 @@
 
 
-## [snapdrop-11.0.4]snapdrop-11.0.4 (2024-07-18)
+## [snapdrop-11.0.6]snapdrop-11.0.6 (2024-08-01)
 
 ### Chore
 
 
+
+- update container image linuxserver/snapdrop to latest[@075fa92](https://github.com/075fa92) by renovate
+
+- update container image linuxserver/snapdrop to latest[@fd7e56f](https://github.com/fd7e56f) by renovate
 
 - update container image linuxserver/snapdrop to latest[@54ef8d7](https://github.com/54ef8d7) by renovate
 

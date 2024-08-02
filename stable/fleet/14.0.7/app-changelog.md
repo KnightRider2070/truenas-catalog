@@ -1,10 +1,14 @@
 
 
-## [fleet-14.0.5]fleet-14.0.5 (2024-07-12)
+## [fleet-14.0.7]fleet-14.0.7 (2024-08-02)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/fleet to 2.3.3[@fcfa693](https://github.com/fcfa693) by renovate
+
+- update container image ghcr.io/linuxserver/fleet to 2.3.3[@84ca0f4](https://github.com/84ca0f4) by renovate
 
 - update container image ghcr.io/linuxserver/fleet to 2.3.3[@db49e83](https://github.com/db49e83) by renovate
 

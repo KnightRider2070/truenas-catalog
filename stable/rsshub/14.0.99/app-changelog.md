@@ -1,10 +1,14 @@
 
 
-## [rsshub-14.0.97]rsshub-14.0.97 (2024-08-01)
+## [rsshub-14.0.99]rsshub-14.0.99 (2024-08-02)
 
 ### Chore
 
 
+
+- update container image diygod/rsshub to latest[@b69fb6b](https://github.com/b69fb6b) by renovate
+
+- update container image diygod/rsshub to latest[@49cdd14](https://github.com/49cdd14) by renovate
 
 - update container image diygod/rsshub to latest[@9a31c29](https://github.com/9a31c29) by renovate
 

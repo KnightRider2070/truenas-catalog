@@ -1,10 +1,14 @@
 
 
-## [pyload-ng-7.0.5]pyload-ng-7.0.5 (2024-07-20)
+## [pyload-ng-7.0.7]pyload-ng-7.0.7 (2024-08-03)
 
 ### Chore
 
 
+
+- update container image lscr.io/linuxserver/pyload-ng to latest[@e93af7a](https://github.com/e93af7a) by renovate
+
+- update container image lscr.io/linuxserver/pyload-ng to latest[@62791a2](https://github.com/62791a2) by renovate
 
 - update container image lscr.io/linuxserver/pyload-ng to latest[@6548c6b](https://github.com/6548c6b) by renovate
 

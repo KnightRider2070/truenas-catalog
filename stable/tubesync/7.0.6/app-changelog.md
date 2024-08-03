@@ -1,10 +1,14 @@
 
 
-## [tubesync-7.0.4]tubesync-7.0.4 (2024-07-18)
+## [tubesync-7.0.6]tubesync-7.0.6 (2024-08-03)
 
 ### Chore
 
 
+
+- update container image ghcr.io/meeb/tubesync to latest[@f9f2199](https://github.com/f9f2199) by renovate
+
+- update container image ghcr.io/meeb/tubesync to latest[@40a78a1](https://github.com/40a78a1) by renovate
 
 - update container image ghcr.io/meeb/tubesync to latest[@c7b5622](https://github.com/c7b5622) by renovate
 

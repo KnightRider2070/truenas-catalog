@@ -1,10 +1,14 @@
 
 
-## [red-discordbot-7.0.3]red-discordbot-7.0.3 (2024-07-26)
+## [red-discordbot-7.0.5]red-discordbot-7.0.5 (2024-08-03)
 
 ### Chore
 
 
+
+- update container image phasecorex/red-discordbot to full[@d18848e](https://github.com/d18848e) by renovate
+
+- update container image phasecorex/red-discordbot to full[@7128c1f](https://github.com/7128c1f) by renovate
 
 - update container image phasecorex/red-discordbot to full[@838e475](https://github.com/838e475) by renovate
 

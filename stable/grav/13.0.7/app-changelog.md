@@ -1,10 +1,14 @@
 
 
-## [grav-13.0.5]grav-13.0.5 (2024-07-13)
+## [grav-13.0.7]grav-13.0.7 (2024-08-03)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/grav to 1.7.46[@9b5ec86](https://github.com/9b5ec86) by renovate
+
+- update container image ghcr.io/linuxserver/grav to 1.7.46[@df7522f](https://github.com/df7522f) by renovate
 
 - update container image ghcr.io/linuxserver/grav to 1.7.46[@066229b](https://github.com/066229b) by renovate
 

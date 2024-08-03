@@ -1,10 +1,14 @@
 
 
-## [davos-14.0.5]davos-14.0.5 (2024-07-12)
+## [davos-14.0.7]davos-14.0.7 (2024-08-02)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/davos to 2.2.2[@4724d80](https://github.com/4724d80) by renovate
+
+- update container image ghcr.io/linuxserver/davos to 2.2.2[@df762f0](https://github.com/df762f0) by renovate
 
 - update container image ghcr.io/linuxserver/davos to 2.2.2[@3cee13d](https://github.com/3cee13d) by renovate
 

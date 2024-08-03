@@ -5,7 +5,7 @@ image:
 broadcastProxyImage:
   repository: docker.io/alpine/socat
   pullPolicy: IfNotPresent
-  tag: 1.8.0.0@sha256:f8bb631eec500e1de6a661652b18d4e68546dc2aa59c08a111dfed1f2e391762
+  tag: 1.8.0.0@sha256:4997e5511e27a84eec692d00fe4f467e8ed275c3473fe4a632d43a37e7379fce
 service:
   main:
     ports:

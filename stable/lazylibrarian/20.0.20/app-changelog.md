@@ -1,10 +1,14 @@
 
 
-## [lazylibrarian-20.0.18]lazylibrarian-20.0.18 (2024-07-29)
+## [lazylibrarian-20.0.20]lazylibrarian-20.0.20 (2024-08-03)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/lazylibrarian to latest[@679eca8](https://github.com/679eca8) by renovate
+
+- update container image ghcr.io/linuxserver/lazylibrarian to latest[@fd699e1](https://github.com/fd699e1) by renovate
 
 - update container image ghcr.io/linuxserver/lazylibrarian to latest[@7d4b1ae](https://github.com/7d4b1ae) by renovate
 

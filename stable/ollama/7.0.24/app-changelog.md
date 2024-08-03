@@ -1,10 +1,14 @@
 
 
-## [ollama-7.0.22]ollama-7.0.22 (2024-07-14)
+## [ollama-7.0.24]ollama-7.0.24 (2024-08-03)
 
 ### Chore
 
 
+
+- update container image ghcr.io/open-webui/open-webui to latest[@a510fa1](https://github.com/a510fa1) by renovate
+
+- update container image ghcr.io/open-webui/open-webui to latest[@4d89fa0](https://github.com/4d89fa0) by renovate
 
 - update container image ghcr.io/open-webui/open-webui to latest[@f53d1db](https://github.com/f53d1db) by renovate
 

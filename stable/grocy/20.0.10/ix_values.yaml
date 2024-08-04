@@ -1,6 +1,6 @@
 image:
   repository: ghcr.io/linuxserver/grocy
-  tag: 4.2.0@sha256:7f7ee4d1445522bf9bebe8510f2d7cfc377aa90b6de38c53c93c053486633cb5
+  tag: 4.2.0@sha256:b7ab9be36d2cca004b7841530a10a21b6746e76e340775c63badf56c50502c3c
   pullPolicy: IfNotPresent
 service:
   main:

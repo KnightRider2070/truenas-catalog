@@ -1,10 +1,14 @@
 
 
-## [cops-10.0.4]cops-10.0.4 (2024-07-21)
+## [cops-10.0.6]cops-10.0.6 (2024-08-04)
 
 ### Chore
 
 
+
+- update container image lscr.io/linuxserver/cops to 2.7.2[@608d49c](https://github.com/608d49c) by renovate
+
+- update container image lscr.io/linuxserver/cops to 2.7.2[@3649ead](https://github.com/3649ead) by renovate
 
 - update container image lscr.io/linuxserver/cops to 2.7.2[@7bfd315](https://github.com/7bfd315) by renovate
 

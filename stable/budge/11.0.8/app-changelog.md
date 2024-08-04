@@ -1,10 +1,14 @@
 
 
-## [budge-11.0.6]budge-11.0.6 (2024-07-14)
+## [budge-11.0.8]budge-11.0.8 (2024-08-04)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/budge to 0.0.9[@8617414](https://github.com/8617414) by renovate
+
+- update container image ghcr.io/linuxserver/budge to 0.0.9[@871dd75](https://github.com/871dd75) by renovate
 
 - update container image ghcr.io/linuxserver/budge to 0.0.9[@7df88dc](https://github.com/7df88dc) by renovate
 

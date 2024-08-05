@@ -1,10 +1,14 @@
 
 
-## [monero-node-8.0.8]monero-node-8.0.8 (2024-07-22)
+## [monero-node-8.0.10]monero-node-8.0.10 (2024-08-05)
 
 ### Chore
 
 
+
+- update container image ghcr.io/sethforprivacy/simple-monerod to v0.18.3.3[@ca318f8](https://github.com/ca318f8) by renovate
+
+- update container image ghcr.io/sethforprivacy/simple-monerod to v0.18.3.3[@13354db](https://github.com/13354db) by renovate
 
 - update container image ghcr.io/sethforprivacy/simple-monerod to v0.18.3.3[@94237a6](https://github.com/94237a6) by renovate
 

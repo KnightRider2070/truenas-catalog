@@ -1,10 +1,14 @@
 
 
-## [quassel-core-13.0.5]quassel-core-13.0.5 (2024-07-15)
+## [quassel-core-13.0.7]quassel-core-13.0.7 (2024-08-05)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/quassel-core to 0.14.0[@d505472](https://github.com/d505472) by renovate
+
+- update container image ghcr.io/linuxserver/quassel-core to 0.14.0[@1a5b555](https://github.com/1a5b555) by renovate
 
 - update container image ghcr.io/linuxserver/quassel-core to 0.14.0[@74fce6b](https://github.com/74fce6b) by renovate
 

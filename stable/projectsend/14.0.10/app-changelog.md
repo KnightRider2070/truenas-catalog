@@ -1,10 +1,14 @@
 
 
-## [projectsend-14.0.8]projectsend-14.0.8 (2024-07-29)
+## [projectsend-14.0.10]projectsend-14.0.10 (2024-08-05)
 
 ### Chore
 
 
+
+- update container image ghcr.io/linuxserver/projectsend to latest[@462f8af](https://github.com/462f8af) by renovate
+
+- update container image ghcr.io/linuxserver/projectsend to latest[@5058ab4](https://github.com/5058ab4) by renovate
 
 - update container image ghcr.io/linuxserver/projectsend to latest[@604fc89](https://github.com/604fc89) by renovate
 

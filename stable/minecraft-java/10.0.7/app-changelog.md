@@ -1,10 +1,14 @@
 
 
-## [minecraft-java-10.0.5]minecraft-java-10.0.5 (2024-07-15)
+## [minecraft-java-10.0.7]minecraft-java-10.0.7 (2024-08-05)
 
 ### Chore
 
 
+
+- update container image itzg/mc-backup to latest[@45be03e](https://github.com/45be03e) by renovate
+
+- update container image itzg/mc-backup to latest[@d86cb74](https://github.com/d86cb74) by renovate
 
 - update container image itzg/mc-backup to latest[@b45d85e](https://github.com/b45d85e) by renovate
 

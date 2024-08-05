@@ -1,10 +1,14 @@
 
 
-## [rimgo-8.0.36]rimgo-8.0.36 (2024-08-05)
+## [rimgo-8.0.38]rimgo-8.0.38 (2024-08-05)
 
 ### Chore
 
 
+
+- update container image quay.io/pussthecatorg/rimgo to latest[@d0205e4](https://github.com/d0205e4) by renovate
+
+- update container image quay.io/pussthecatorg/rimgo to latest[@34eeb38](https://github.com/34eeb38) by renovate
 
 - update container image quay.io/pussthecatorg/rimgo to latest[@09015f0](https://github.com/09015f0) by renovate
 

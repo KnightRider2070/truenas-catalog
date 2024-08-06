@@ -3,8 +3,8 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/volsync/1.0.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/home/runner/work/truenas-catalog/truenas-catalog/incubator/volsync/1.0.7",
+        "last_update": "2024-08-06 04:39:36",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate"
@@ -2957,8 +2957,8 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/volsync/1.0.6",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/home/runner/work/truenas-catalog/truenas-catalog/incubator/volsync/1.0.6",
+        "last_update": "2024-08-06 04:39:36",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate"
@@ -5911,8 +5911,8 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/volsync/0.0.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/home/runner/work/truenas-catalog/truenas-catalog/incubator/volsync/0.0.1",
+        "last_update": "2024-08-06 04:39:36",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate"

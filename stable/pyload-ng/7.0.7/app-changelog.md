@@ -1,10 +1,12 @@
 
 
-## [pyload-ng-7.0.7]pyload-ng-7.0.7 (2024-08-03)
+## [pyload-ng-7.0.7]pyload-ng-7.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image lscr.io/linuxserver/pyload-ng to latest[@e93af7a](https://github.com/e93af7a) by renovate
 

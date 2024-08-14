@@ -1,10 +1,12 @@
 
 
-## [friendica-16.0.9]friendica-16.0.9 (2024-07-23)
+## [friendica-16.0.9]friendica-16.0.9 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image friendica to 2024.03[@cf908c5](https://github.com/cf908c5) by renovate
 

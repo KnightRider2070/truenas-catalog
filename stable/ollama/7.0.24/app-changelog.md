@@ -1,10 +1,12 @@
 
 
-## [ollama-7.0.24]ollama-7.0.24 (2024-08-03)
+## [ollama-7.0.24]ollama-7.0.24 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/open-webui/open-webui to latest[@a510fa1](https://github.com/a510fa1) by renovate
 

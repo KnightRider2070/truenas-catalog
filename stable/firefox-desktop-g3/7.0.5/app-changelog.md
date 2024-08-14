@@ -1,10 +1,12 @@
 
 
-## [firefox-desktop-g3-7.0.5]firefox-desktop-g3-7.0.5 (2024-07-30)
+## [firefox-desktop-g3-7.0.5]firefox-desktop-g3-7.0.5 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image accetto/ubuntu-vnc-xfce-firefox-g3 to latest[@8013905](https://github.com/8013905) by renovate
 

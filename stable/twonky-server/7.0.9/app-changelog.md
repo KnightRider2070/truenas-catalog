@@ -1,10 +1,12 @@
 
 
-## [twonky-server-7.0.9]twonky-server-7.0.9 (2024-08-02)
+## [twonky-server-7.0.9]twonky-server-7.0.9 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image dtjs48jkt/twonkyserver to latest[@4be504a](https://github.com/4be504a) by renovate
 

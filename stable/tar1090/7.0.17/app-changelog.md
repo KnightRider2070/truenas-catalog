@@ -1,10 +1,12 @@
 
 
-## [tar1090-7.0.17]tar1090-7.0.17 (2024-08-05)
+## [tar1090-7.0.17]tar1090-7.0.17 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image mikenye/tar1090 to latest[@37f0bc2](https://github.com/37f0bc2) by renovate
 

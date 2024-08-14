@@ -1,10 +1,12 @@
 
 
-## [multi-scrobbler-8.0.5]multi-scrobbler-8.0.5 (2024-07-18)
+## [multi-scrobbler-8.0.5]multi-scrobbler-8.0.5 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image foxxmd/multi-scrobbler to latest[@11c1489](https://github.com/11c1489) by renovate
 

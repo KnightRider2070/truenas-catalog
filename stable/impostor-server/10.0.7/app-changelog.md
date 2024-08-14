@@ -1,10 +1,12 @@
 
 
-## [impostor-server-10.0.7]impostor-server-10.0.7 (2024-07-29)
+## [impostor-server-10.0.7]impostor-server-10.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image aeonlucid/impostor to nightly[@959c66f](https://github.com/959c66f) by renovate
 

@@ -1,10 +1,12 @@
 
 
-## [sickchill-13.0.9]sickchill-13.0.9 (2024-08-01)
+## [sickchill-13.0.9]sickchill-13.0.9 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/sickchill to 2024.3.1[@4e82760](https://github.com/4e82760) by renovate
 

@@ -1,10 +1,12 @@
 
 
-## [red-discordbot-7.0.6]red-discordbot-7.0.6 (2024-08-05)
+## [red-discordbot-7.0.6]red-discordbot-7.0.6 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image phasecorex/red-discordbot to full[@77c58e1](https://github.com/77c58e1) by renovate
 

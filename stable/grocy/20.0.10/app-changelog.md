@@ -1,10 +1,12 @@
 
 
-## [grocy-20.0.10]grocy-20.0.10 (2024-08-04)
+## [grocy-20.0.10]grocy-20.0.10 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/grocy to 4.2.0[@b7ab9be](https://github.com/b7ab9be) by renovate
 

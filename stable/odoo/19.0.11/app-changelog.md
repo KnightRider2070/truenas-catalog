@@ -1,10 +1,12 @@
 
 
-## [odoo-19.0.11]odoo-19.0.11 (2024-07-30)
+## [odoo-19.0.11]odoo-19.0.11 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image docker.io/odoo to 17.0[@3178ddc](https://github.com/3178ddc) by renovate
 

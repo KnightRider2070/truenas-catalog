@@ -1,10 +1,12 @@
 
 
-## [lazylibrarian-20.0.22]lazylibrarian-20.0.22 (2024-08-05)
+## [lazylibrarian-20.0.22]lazylibrarian-20.0.22 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/lazylibrarian to latest[@c0eabb4](https://github.com/c0eabb4) by renovate
 

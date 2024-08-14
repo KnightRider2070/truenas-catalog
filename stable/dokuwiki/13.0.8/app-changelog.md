@@ -1,10 +1,12 @@
 
 
-## [dokuwiki-13.0.8]dokuwiki-13.0.8 (2024-07-25)
+## [dokuwiki-13.0.8]dokuwiki-13.0.8 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image bitnami/dokuwiki to 20240206.1.0[@07c6e46](https://github.com/07c6e46) by renovate
 

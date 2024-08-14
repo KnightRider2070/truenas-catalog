@@ -1,10 +1,12 @@
 
 
-## [projectsend-14.0.10]projectsend-14.0.10 (2024-08-05)
+## [projectsend-14.0.10]projectsend-14.0.10 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/projectsend to latest[@462f8af](https://github.com/462f8af) by renovate
 

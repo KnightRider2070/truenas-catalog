@@ -1,10 +1,12 @@
 
 
-## [rsnapshot-11.0.7]rsnapshot-11.0.7 (2024-08-01)
+## [rsnapshot-11.0.7]rsnapshot-11.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/rsnapshot to 1.4.5[@896bbad](https://github.com/896bbad) by renovate
 

@@ -1,10 +1,12 @@
 
 
-## [omada-controller-16.0.8]omada-controller-16.0.8 (2024-08-01)
+## [omada-controller-16.0.8]omada-controller-16.0.8 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image mbentley/omada-controller to v[@b2fe689](https://github.com/b2fe689) by renovate
 

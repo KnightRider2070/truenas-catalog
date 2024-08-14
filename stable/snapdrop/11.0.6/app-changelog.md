@@ -1,10 +1,12 @@
 
 
-## [snapdrop-11.0.6]snapdrop-11.0.6 (2024-08-01)
+## [snapdrop-11.0.6]snapdrop-11.0.6 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image linuxserver/snapdrop to latest[@075fa92](https://github.com/075fa92) by renovate
 

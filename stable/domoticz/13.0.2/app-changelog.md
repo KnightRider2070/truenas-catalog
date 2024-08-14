@@ -1,10 +1,12 @@
 
 
-## [domoticz-13.0.2]domoticz-13.0.2 (2024-06-18)
+## [domoticz-13.0.2]domoticz-13.0.2 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image domoticz/domoticz to 2024.4[@9f91c63](https://github.com/9f91c63) by renovate
 

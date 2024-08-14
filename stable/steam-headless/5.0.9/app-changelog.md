@@ -1,10 +1,12 @@
 
 
-## [steam-headless-5.0.9]steam-headless-5.0.9 (2024-08-03)
+## [steam-headless-5.0.9]steam-headless-5.0.9 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image josh5/steam-headless to latest[@92184be](https://github.com/92184be) by renovate
 

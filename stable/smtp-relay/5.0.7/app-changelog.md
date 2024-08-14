@@ -1,10 +1,12 @@
 
 
-## [smtp-relay-5.0.7]smtp-relay-5.0.7 (2024-07-17)
+## [smtp-relay-5.0.7]smtp-relay-5.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/ix-ai/smtp to v0.5.2[@dd5edd1](https://github.com/dd5edd1) by renovate
 

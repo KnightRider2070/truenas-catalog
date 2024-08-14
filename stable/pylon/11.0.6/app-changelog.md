@@ -1,10 +1,12 @@
 
 
-## [pylon-11.0.6]pylon-11.0.6 (2024-07-30)
+## [pylon-11.0.6]pylon-11.0.6 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/pylon to 2.10.0[@d60d32a](https://github.com/d60d32a) by renovate
 

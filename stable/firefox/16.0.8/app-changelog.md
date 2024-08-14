@@ -1,10 +1,12 @@
 
 
-## [firefox-16.0.8]firefox-16.0.8 (2024-07-27)
+## [firefox-16.0.8]firefox-16.0.8 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/firefox to 126.0.1[@12d105c](https://github.com/12d105c) by renovate
 

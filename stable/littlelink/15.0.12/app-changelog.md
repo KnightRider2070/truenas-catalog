@@ -1,10 +1,12 @@
 
 
-## [littlelink-15.0.12]littlelink-15.0.12 (2024-07-30)
+## [littlelink-15.0.12]littlelink-15.0.12 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/techno-tim/littlelink-server to latest[@831ac7a](https://github.com/831ac7a) by renovate
 

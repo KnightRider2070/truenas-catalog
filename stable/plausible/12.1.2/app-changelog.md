@@ -1,10 +1,12 @@
 
 
-## [plausible-12.1.2]plausible-12.1.2 (2024-08-11)
+## [plausible-12.1.2]plausible-12.1.2 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image clickhouse to v14.0.4[@863d73f](https://github.com/863d73f) by renovate ([#847](https://github.com/truecharts/charts/issues/847))
 

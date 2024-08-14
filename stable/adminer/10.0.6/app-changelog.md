@@ -1,10 +1,12 @@
 
 
-## [adminer-10.0.6]adminer-10.0.6 (2024-07-23)
+## [adminer-10.0.6]adminer-10.0.6 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image adminer to latest[@34d3713](https://github.com/34d3713) by renovate
 

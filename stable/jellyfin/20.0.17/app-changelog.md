@@ -1,10 +1,12 @@
 
 
-## [jellyfin-20.0.17]jellyfin-20.0.17 (2024-08-03)
+## [jellyfin-20.0.17]jellyfin-20.0.17 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image docker.io/alpine/socat to 1.8.0.0[@4997e55](https://github.com/4997e55) by renovate
 

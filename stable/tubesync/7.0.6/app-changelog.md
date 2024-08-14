@@ -1,10 +1,12 @@
 
 
-## [tubesync-7.0.6]tubesync-7.0.6 (2024-08-03)
+## [tubesync-7.0.6]tubesync-7.0.6 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/meeb/tubesync to latest[@f9f2199](https://github.com/f9f2199) by renovate
 

@@ -1,10 +1,12 @@
 
 
-## [resilio-sync-16.0.6]resilio-sync-16.0.6 (2024-07-24)
+## [resilio-sync-16.0.6]resilio-sync-16.0.6 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/resilio-sync to 2.8.1[@694a0ba](https://github.com/694a0ba) by renovate
 

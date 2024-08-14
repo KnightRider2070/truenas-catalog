@@ -1,10 +1,12 @@
 
 
-## [wallos-6.0.23]wallos-6.0.23 (2024-07-29)
+## [wallos-6.0.23]wallos-6.0.23 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image docker.io/bellamy/wallos to latest[@db9e9c8](https://github.com/db9e9c8) by renovate
 

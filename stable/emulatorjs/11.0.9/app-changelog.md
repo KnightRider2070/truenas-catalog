@@ -1,10 +1,12 @@
 
 
-## [emulatorjs-11.0.9]emulatorjs-11.0.9 (2024-08-01)
+## [emulatorjs-11.0.9]emulatorjs-11.0.9 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/emulatorjs to 1.9.0[@0be6bec](https://github.com/0be6bec) by renovate
 

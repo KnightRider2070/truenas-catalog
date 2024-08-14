@@ -1,10 +1,12 @@
 
 
-## [booksonic-air-15.0.7]booksonic-air-15.0.7 (2024-07-31)
+## [booksonic-air-15.0.7]booksonic-air-15.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/booksonic-air to 2201.1.0[@2bd7b17](https://github.com/2bd7b17) by renovate
 

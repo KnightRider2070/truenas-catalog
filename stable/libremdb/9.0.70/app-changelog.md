@@ -1,10 +1,12 @@
 
 
-## [libremdb-9.0.70]libremdb-9.0.70 (2024-08-06)
+## [libremdb-9.0.70]libremdb-9.0.70 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image quay.io/pussthecatorg/libremdb to latest[@4d03bf3](https://github.com/4d03bf3) by renovate
 

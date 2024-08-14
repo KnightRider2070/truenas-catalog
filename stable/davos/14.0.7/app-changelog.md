@@ -1,10 +1,12 @@
 
 
-## [davos-14.0.7]davos-14.0.7 (2024-08-02)
+## [davos-14.0.7]davos-14.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/davos to 2.2.2[@4724d80](https://github.com/4724d80) by renovate
 

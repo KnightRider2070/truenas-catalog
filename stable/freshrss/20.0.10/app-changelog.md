@@ -1,10 +1,12 @@
 
 
-## [freshrss-20.0.10]freshrss-20.0.10 (2024-08-04)
+## [freshrss-20.0.10]freshrss-20.0.10 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/freshrss to 1.24.1[@daf0d3d](https://github.com/daf0d3d) by renovate
 

@@ -1,10 +1,12 @@
 
 
-## [monero-node-8.0.10]monero-node-8.0.10 (2024-08-05)
+## [monero-node-8.0.10]monero-node-8.0.10 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/sethforprivacy/simple-monerod to v0.18.3.3[@ca318f8](https://github.com/ca318f8) by renovate
 

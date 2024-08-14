@@ -1,10 +1,12 @@
 
 
-## [solr-12.0.7]solr-12.0.7 (2024-07-25)
+## [solr-12.0.7]solr-12.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image bitnami/solr to 9.6.1[@129d7ca](https://github.com/129d7ca) by renovate
 

@@ -1,10 +1,12 @@
 
 
-## [blender-7.0.6]blender-7.0.6 (2024-08-01)
+## [blender-7.0.6]blender-7.0.6 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image lscr.io/linuxserver/blender to latest[@ae0d2ce](https://github.com/ae0d2ce) by renovate
 

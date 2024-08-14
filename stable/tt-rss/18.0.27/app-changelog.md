@@ -1,10 +1,12 @@
 
 
-## [tt-rss-18.0.27]tt-rss-18.0.27 (2024-08-04)
+## [tt-rss-18.0.27]tt-rss-18.0.27 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image cthulhoo/ttrss-web-nginx to latest[@c918697](https://github.com/c918697) by renovate
 

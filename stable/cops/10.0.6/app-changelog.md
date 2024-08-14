@@ -1,10 +1,12 @@
 
 
-## [cops-10.0.6]cops-10.0.6 (2024-08-04)
+## [cops-10.0.6]cops-10.0.6 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image lscr.io/linuxserver/cops to 2.7.2[@608d49c](https://github.com/608d49c) by renovate
 

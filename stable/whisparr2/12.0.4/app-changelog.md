@@ -1,10 +1,12 @@
 
 
-## [whisparr2-12.0.4]whisparr2-12.0.4 (2024-07-24)
+## [whisparr2-12.0.4]whisparr2-12.0.4 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - Add necessary files for whisparr2 chart ([#1](https://github.com/truecharts/charts/issues/1))
 

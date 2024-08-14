@@ -1,10 +1,12 @@
 
 
-## [doublecommander-14.0.7]doublecommander-14.0.7 (2024-07-31)
+## [doublecommander-14.0.7]doublecommander-14.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/doublecommander to latest[@16934eb](https://github.com/16934eb) by renovate
 

@@ -1,10 +1,12 @@
 
 
-## [budge-11.0.8]budge-11.0.8 (2024-08-04)
+## [budge-11.0.8]budge-11.0.8 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/budge to 0.0.9[@8617414](https://github.com/8617414) by renovate
 

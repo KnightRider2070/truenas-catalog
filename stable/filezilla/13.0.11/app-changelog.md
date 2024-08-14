@@ -1,10 +1,12 @@
 
 
-## [filezilla-13.0.11]filezilla-13.0.11 (2024-08-05)
+## [filezilla-13.0.11]filezilla-13.0.11 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/filezilla to 3.67.0[@609b7f2](https://github.com/609b7f2) by renovate
 

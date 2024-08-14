@@ -1,10 +1,12 @@
 
 
-## [autoscan-10.0.4]autoscan-10.0.4 (2024-07-23)
+## [autoscan-10.0.4]autoscan-10.0.4 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/hotio/autoscan to latest[@5a4d9f2](https://github.com/5a4d9f2) by renovate
 

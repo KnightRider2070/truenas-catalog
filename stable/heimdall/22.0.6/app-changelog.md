@@ -1,10 +1,12 @@
 
 
-## [heimdall-22.0.6]heimdall-22.0.6 (2024-08-03)
+## [heimdall-22.0.6]heimdall-22.0.6 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image linuxserver/heimdall to v[@ab4ddf3](https://github.com/ab4ddf3) by renovate
 

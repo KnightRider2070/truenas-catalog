@@ -1,10 +1,12 @@
 
 
-## [grav-13.0.7]grav-13.0.7 (2024-08-03)
+## [grav-13.0.7]grav-13.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/grav to 1.7.46[@9b5ec86](https://github.com/9b5ec86) by renovate
 

@@ -1,10 +1,12 @@
 
 
-## [minecraft-java-10.0.7]minecraft-java-10.0.7 (2024-08-05)
+## [minecraft-java-10.0.7]minecraft-java-10.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image itzg/mc-backup to latest[@45be03e](https://github.com/45be03e) by renovate
 

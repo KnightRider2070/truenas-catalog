@@ -1,10 +1,12 @@
 
 
-## [mstream-12.0.9]mstream-12.0.9 (2024-07-31)
+## [mstream-12.0.9]mstream-12.0.9 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/mstream to 5.12.2[@f0ac0f6](https://github.com/f0ac0f6) by renovate
 

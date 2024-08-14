@@ -1,10 +1,12 @@
 
 
-## [wordpress-9.0.7]wordpress-9.0.7 (2024-06-20)
+## [wordpress-9.0.7]wordpress-9.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image bitnami/wordpress to 6.5.4[@c1603b6](https://github.com/c1603b6) by renovate
 

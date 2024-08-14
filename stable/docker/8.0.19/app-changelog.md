@@ -1,10 +1,12 @@
 
 
-## [docker-8.0.19]docker-8.0.19 (2024-07-25)
+## [docker-8.0.19]docker-8.0.19 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image docker to v[@dd43b43](https://github.com/dd43b43) by renovate
 

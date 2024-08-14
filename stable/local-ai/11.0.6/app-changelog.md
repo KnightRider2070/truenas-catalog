@@ -1,10 +1,12 @@
 
 
-## [local-ai-11.0.6]local-ai-11.0.6 (2024-06-18)
+## [local-ai-11.0.6]local-ai-11.0.6 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image docker.io/localai/localai to v[@5d26f23](https://github.com/5d26f23) by renovate
 

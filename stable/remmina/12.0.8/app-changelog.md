@@ -1,10 +1,12 @@
 
 
-## [remmina-12.0.8]remmina-12.0.8 (2024-07-31)
+## [remmina-12.0.8]remmina-12.0.8 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/remmina to 1.4.2[@f35895f](https://github.com/f35895f) by renovate
 

@@ -1,10 +1,12 @@
 
 
-## [boinc-11.0.9]boinc-11.0.9 (2024-07-30)
+## [boinc-11.0.9]boinc-11.0.9 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/boinc to latest[@7a3ca5d](https://github.com/7a3ca5d) by renovate
 

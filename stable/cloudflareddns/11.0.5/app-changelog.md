@@ -1,10 +1,12 @@
 
 
-## [cloudflareddns-11.0.5]cloudflareddns-11.0.5 (2024-07-26)
+## [cloudflareddns-11.0.5]cloudflareddns-11.0.5 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/hotio/cloudflareddns to latest[@2d923fd](https://github.com/2d923fd) by renovate
 

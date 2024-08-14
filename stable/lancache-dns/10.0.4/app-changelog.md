@@ -1,10 +1,12 @@
 
 
-## [lancache-dns-10.0.4]lancache-dns-10.0.4 (2024-08-01)
+## [lancache-dns-10.0.4]lancache-dns-10.0.4 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image lancachenet/lancache-dns to latest[@a9a37f6](https://github.com/a9a37f6) by renovate
 

@@ -1,5 +1,5 @@
 annotations:
-  max_scale_version: 24.04.1
+  max_scale_version: 24.04.3
   min_scale_version: 24.04.0
   truecharts.org/SCALE-support: "true"
   truecharts.org/category: MediaApp-Photos
@@ -17,14 +17,14 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: '*BETA* Fotosho is a photo gallery for your home server. Organize your photos into albums internally and view as a slideshow. Free and open source. Does not require a database. Does not move, copy or modify your photos.'
+description: "*BETA* Fotosho is a photo gallery for your home server. Organize your photos into albums internally and view as a slideshow. Free and open source. Does not require a database. Does not move, copy or modify your photos."
 home: https://truecharts.org/charts/stable/fotosho
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/fotosho.webp
 keywords:
   - fotosho
   - MediaApp-Photos
   - MediaServer-Photos
-kubeVersion: '>=1.24.0-0'
+kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org

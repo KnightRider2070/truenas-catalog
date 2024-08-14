@@ -1,10 +1,12 @@
 
 
-## [tvheadend-21.0.7]tvheadend-21.0.7 (2024-07-28)
+## [tvheadend-21.0.7]tvheadend-21.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/tvheadend to latest[@9ec23a5](https://github.com/9ec23a5) by renovate
 

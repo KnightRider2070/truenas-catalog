@@ -1,10 +1,12 @@
 
 
-## [medusa-12.0.6]medusa-12.0.6 (2024-08-01)
+## [medusa-12.0.6]medusa-12.0.6 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/medusa to 1.0.21[@b9ec4b9](https://github.com/b9ec4b9) by renovate
 

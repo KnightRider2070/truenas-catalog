@@ -1,10 +1,12 @@
 
 
-## [pwndrop-11.0.9]pwndrop-11.0.9 (2024-08-05)
+## [pwndrop-11.0.9]pwndrop-11.0.9 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/pwndrop to 1.0.1[@8154dd7](https://github.com/8154dd7) by renovate
 

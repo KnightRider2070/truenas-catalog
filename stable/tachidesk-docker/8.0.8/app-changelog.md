@@ -1,10 +1,12 @@
 
 
-## [tachidesk-docker-8.0.8]tachidesk-docker-8.0.8 (2024-06-29)
+## [tachidesk-docker-8.0.8]tachidesk-docker-8.0.8 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/suwayomi/tachidesk to preview[@1457203](https://github.com/1457203) by renovate
 

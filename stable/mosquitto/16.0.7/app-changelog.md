@@ -1,10 +1,12 @@
 
 
-## [mosquitto-16.0.7]mosquitto-16.0.7 (2024-07-23)
+## [mosquitto-16.0.7]mosquitto-16.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image eclipse-mosquitto to 2.0.18[@77b9bfa](https://github.com/77b9bfa) by renovate
 

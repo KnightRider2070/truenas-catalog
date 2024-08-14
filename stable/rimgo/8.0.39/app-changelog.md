@@ -1,10 +1,12 @@
 
 
-## [rimgo-8.0.39]rimgo-8.0.39 (2024-08-06)
+## [rimgo-8.0.39]rimgo-8.0.39 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image quay.io/pussthecatorg/rimgo to latest[@90b4278](https://github.com/90b4278) by renovate
 

@@ -1,10 +1,12 @@
 
 
-## [piwigo-14.0.6]piwigo-14.0.6 (2024-07-13)
+## [piwigo-14.0.6]piwigo-14.0.6 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/piwigo to 14.4.0[@f0b3e19](https://github.com/f0b3e19) by renovate
 

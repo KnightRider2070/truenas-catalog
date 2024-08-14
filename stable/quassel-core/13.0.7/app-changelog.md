@@ -1,10 +1,12 @@
 
 
-## [quassel-core-13.0.7]quassel-core-13.0.7 (2024-08-05)
+## [quassel-core-13.0.7]quassel-core-13.0.7 (2024-08-14)
 
 ### Chore
 
 
+
+- update max_scale_version to 24.04.3 for multiple charts
 
 - update container image ghcr.io/linuxserver/quassel-core to 0.14.0[@d505472](https://github.com/d505472) by renovate
 

@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/archivebox/1.2.18",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/home/runner/work/truenas-catalog/truenas-catalog/incubator/archivebox/1.2.18",
+        "last_update": "2024-08-14 11:23:54",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_1.2.18",
         "version": "1.2.18",
@@ -4980,13 +4980,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/archivebox/1.2.17",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/home/runner/work/truenas-catalog/truenas-catalog/incubator/archivebox/1.2.17",
+        "last_update": "2024-08-14 11:23:54",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_1.2.17",
         "version": "1.2.17",
@@ -9957,13 +9957,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/archivebox/0.7.2",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/home/runner/work/truenas-catalog/truenas-catalog/incubator/archivebox/0.7.2",
+        "last_update": "2024-08-14 11:23:54",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "latest_0.7.2",
